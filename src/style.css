@@ -1,0 +1,22 @@
+#body {
+    -fx-background-image: url("gameBoardBackground.png");
+    -fx-fill-width: 100px;
+}
+
+#bottomBar {
+    -fx-background-image: url("bottomBarBackground.png");
+    -fx-border-color: #000;
+    -fx-alignment: center;
+}
+
+.button {
+    -fx-background-color: yellow;
+    -fx-font-size: 20;
+    -fx-font-weight: 700;
+}
+
+.button:hover {
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+    -fx-cursor: hand;
+}
