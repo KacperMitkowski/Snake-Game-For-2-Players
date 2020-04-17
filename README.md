@@ -1,7 +1,7 @@
 # Snake game for 2 players
 
 ## What is Snake?
-It's a classical platform game when players have to kill all the mobs (by shooting or touching them) without beeing killed. Some of the mobs are shooting and some are not. This is a game for 2 players and each of them presses keyboard for snake moving.
+It's a classical platform game when players have to kill all the mobs (by shooting or touching them) without being killed. Some of the mobs are shooting and some are not. This is a game for 2 players and each of them presses keyboard for snake moving.
 
 
 ## About the project:
@@ -17,3 +17,4 @@ It is my implementation of Snake in Java and JavaFX. This is a base for new feat
 * Java
 * JavaFx
 * CSS
+
