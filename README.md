@@ -18,3 +18,5 @@ It is my implementation of Snake in Java and JavaFX. This is a base for new feat
 * JavaFx
 * CSS
 
+## Screenshots:
+![alt text](https://github.com/KacperMitkowski/Snake_Game_For_2_Players/blob/master/screenshots/screenshot_1.png)
