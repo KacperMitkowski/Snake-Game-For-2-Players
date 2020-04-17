@@ -19,7 +19,7 @@ It is my implementation of Snake in Java and JavaFX. This is a base for new feat
 * CSS
 
 ## Screenshots:
-![alt text](https://github.com/KacperMitkowski/Snake_Game_For_2_Players/blob/master/screenshots/screenshot_3.gif)
-![alt text](https://github.com/KacperMitkowski/Snake_Game_For_2_Players/blob/master/screenshots/screenshot_1.png)
+![alt text](https://github.com/KacperMitkowski/Snake_Game_For_2_Players/blob/master/screenshots/gif_1.gif)
+![alt text](https://github.com/KacperMitkowski/Snake_Game_For_2_Players/blob/master/screenshots/screenshot_2.png)
 
 
